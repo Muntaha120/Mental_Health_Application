@@ -9,8 +9,6 @@ An advanced mental health wellness application that provides real-time multi-mod
 
 🌐 **Live Demo**: [Mental Health Wellness AI App](https://playful-kringle-c362c7.netlify.app)
 
-![Multi-Modal Sentiment Analysis](https://via.placeholder.com/800x400?text=Mental+Health+Wellness+AI+Interface)
-
 ## ✨ Advanced Features
 
 ### 🎥 Multi-Modal Analysis
