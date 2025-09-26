@@ -1,4 +1,4 @@
-# 🧠 Mental Health Wellness AI - Multi-Modal Sentiment Analysis
+# 🧠 Mental Health Wellness AI - Multi-Model Sentiment Analysis
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
 [![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/js)
